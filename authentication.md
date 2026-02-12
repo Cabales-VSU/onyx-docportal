@@ -25,7 +25,6 @@ Allows registered users to access their respective dashboards (Admin, Clerk, or 
 - [Estimated Waiting Time Display](estimated-waiting-time-display.md)
 - [Queue Joining](queue-joining.md)
 - [Queue Cancelling](queue-cancelling.md)
-- [Notifications](notifications.md)
 
 ---
 
