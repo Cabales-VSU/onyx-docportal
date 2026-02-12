@@ -4,7 +4,7 @@
 
 ## [cite_start]2. Functional Description [cite: 110]
 
-Allows registered users to access their respective dashboards (Admin, Clerk, or Student) by providing valid credentials.
+Allows registered users to access their respective dashboards (Admin, or Student) by providing valid credentials.
 
 ## [cite_start]3. Use Case Scenario [cite: 111]
 
