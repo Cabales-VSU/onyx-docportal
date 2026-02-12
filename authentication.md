@@ -1,12 +1,12 @@
-# [cite_start]Authentication > Sign In [cite: 107]
+# Authentication > Sign In
 
-## [cite_start]1. Mockup [cite: 108]
+## 1. Mockup
 
-## [cite_start]2. Functional Description [cite: 110]
+## 2. Functional Description
 
-Allows registered users to access their respective dashboards (Admin, or Student) by providing valid credentials.
+Allows registered users to access their respective dashboards (Admin, Clerk, or Student) by providing valid credentials.
 
-## [cite_start]3. Use Case Scenario [cite: 111]
+## 3. Use Case Scenario
 
 | Step | User Action                     | System Response                                  |
 | :--- | :------------------------------ | :----------------------------------------------- |
@@ -15,4 +15,18 @@ Allows registered users to access their respective dashboards (Admin, or Student
 
 ---
 
-[cite_start][Return to Site Map](project-homepage.md) [cite: 92]
+## Site Map
+
+- [Project Homepage](project-homepage.md)
+- [Authentication](authentication.md)
+- [Priority Queues](priority-queues.md)
+- [History Management](history-management.md)
+- [Real-Time Queue Tracking](real-time-queue-tracking.md)
+- [Estimated Waiting Time Display](estimated-waiting-time-display.md)
+- [Queue Joining](queue-joining.md)
+- [Queue Cancelling](queue-cancelling.md)
+- [Notifications](notifications.md)
+
+---
+
+&copy; 2026 Queuely
