@@ -1,6 +1,6 @@
 # [Project Full Title: Queuely Web-Based Queueing System]
 
-**Internal Code Name:** [Project Zenith]
+#**Internal Code Name:** Project Zenith
 **Target:** AB.010.001
 
 ## Revision History
