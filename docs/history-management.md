@@ -12,7 +12,7 @@
 | [History Management](history-management.md) | [Queue Cancelling](queue-cancelling.md) |
 
 ---
-## [Project Homepage](project-homepage.md) > **History Management**
+## [Project Homepage](../project-homepage.md) > **History Management**
 
 ### 🖼️ Mockup
 
