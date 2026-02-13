@@ -1,6 +1,6 @@
-# [Project Full Title: Queuely Web-Based Queueing System]
+# [Queuely Web-Based Queueing System]
 
-# Project Zenith
+# Onyx
 
 **Target:** AB.010.001
 
