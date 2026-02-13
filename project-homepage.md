@@ -16,10 +16,10 @@
 ### 🗺️ Site Map
 | Main Modules | Queue Management |
 | :--- | :--- |
-| [Project Homepage](project-homepage.md) | [Real-Time Queue Tracking](real-time-queue-tracking.md) |
-| [Authentication](authentication.md) | [Estimated Waiting Time](estimated-waiting-time-display.md) |
-| [Priority Queues](priority-queues.md) | [Queue Joining](queue-joining.md) |
-| [History Management](history-management.md) | [Queue Cancelling](queue-cancelling.md) |
+| [Project Homepage](project-homepage.md) | [Real-Time Queue Tracking](docs/real-time-queue-tracking.md) |
+| [Authentication](docs/authentication.md) | [Estimated Waiting Time](docs/estimated-waiting-time-display.md) |
+| [Priority Queues](docs/priority-queues.md) | [Queue Joining](docs/queue-joining.md) |
+| [History Management](docs/history-management.md) | [Queue Cancelling](docs/queue-cancelling.md) |
 
 ---
 
