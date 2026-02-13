@@ -1,4 +1,4 @@
-### 🏠 Queuely Web-Based Queueing System
+# Queuely Web-Based Queueing System
 
 ### 💎 ONYX
 > **Target:** `AB.010.001`
