@@ -1,4 +1,16 @@
-# Authentication > Sign In
+# Onyx
+**Target:** ON.010.001  
+
+## Site Map
+- [Project Homepage](project-homepage.md)
+- [Authentication](authentication.md)
+- [Priority Queues](priority-queues.md)
+- [History Management](history-management.md)
+- [Real-Time Queue Tracking](real-time-queue-tracking.md)
+- [Estimated Waiting Time Display](estimated-waiting-time-display.md)
+- [Queue Joining](queue-joining.md)
+- [Queue Cancelling](queue-cancelling.md)
+---
 
 ## 1. Mockup
 
@@ -15,17 +27,4 @@ Allows registered users to access their respective dashboards (Admin, Clerk, or 
 
 ---
 
-## Site Map
-
-- [Project Homepage](project-homepage.md)
-- [Authentication](authentication.md)
-- [Priority Queues](priority-queues.md)
-- [History Management](history-management.md)
-- [Real-Time Queue Tracking](real-time-queue-tracking.md)
-- [Estimated Waiting Time Display](estimated-waiting-time-display.md)
-- [Queue Joining](queue-joining.md)
-- [Queue Cancelling](queue-cancelling.md)
-
----
-
-&copy; 2026 Queuely
+<p align="center">&copy; 2026 QLinea</p>
