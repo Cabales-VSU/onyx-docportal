@@ -6,13 +6,13 @@
 ### 🗺️ Site Map
 | Main Modules | Queue Management |
 | :--- | :--- |
-| [Project Homepage](project-homepage.md) | [Real-Time Queue Tracking](real-time-queue-tracking.md) |
+| [Project Homepage](../project-homepage.md) | [Real-Time Queue Tracking](real-time-queue-tracking.md) |
 | [Authentication](authentication.md) | [Estimated Waiting Time](estimated-waiting-time-display.md) |
 | [Priority Queues](priority-queues.md) | [Queue Joining](queue-joining.md) |
 | [History Management](history-management.md) | [Queue Cancelling](queue-cancelling.md) |
 
 ---
-## [Project Homepage](project-homepage.md) > **Queue Joining**
+## [Project Homepage](../project-homepage.md) > **Queue Joining**
 
 ### 🖼️ Mockup
 
