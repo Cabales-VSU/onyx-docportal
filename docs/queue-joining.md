@@ -25,10 +25,10 @@ Enables users to join a specific service queue remotely or via a kiosk using the
 
 ### 🎬 Use Case Scenario
 
-| Step  | User Action                                           | System Response                                                                |
-| :---: | :---------------------------------------------------- | :----------------------------------------------------------------------------- |
-| **1** | User scans QR-code and enters identification details. | System validates the user's identity and assigns a ticket number.              |
-| **2** | User clicks "Join Queue".                             | System generates a unique ticket number and adds the user to the active queue. |
+| Step  | User Action                 | System Response                                                                      |
+| :---: | :-------------------------- | :----------------------------------------------------------------------------------- |
+| **1** | User clicks "Join Queue".   | System generates a unique ticket number and adds the user to the active queue.       |
+| **2** | User receives confirmation. | System sends a notification confirming the user's queue position and ticket details. |
 
 ---
 
