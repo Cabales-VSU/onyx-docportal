@@ -1,29 +1,34 @@
 ### 💎 ONYX
+
 > **Target:** `ON.010.001`
 
 ---
 
 ### 🗺️ Site Map
-| Main Modules | Queue Management |
-| :--- | :--- |
-| [Project Homepage](../project-homepage.md) | [Real-Time Queue Tracking](real-time-queue-tracking.md) |
-| [Authentication](authentication.md) | [Estimated Waiting Time](estimated-waiting-time-display.md) |
-| [Priority Queues](priority-queues.md) | [Queue Joining](queue-joining.md) |
-| [History Management](history-management.md) | [Queue Cancelling](queue-cancelling.md) |
+
+| Main Modules                                | Queue Management                                            |
+| :------------------------------------------ | :---------------------------------------------------------- |
+| [Project Homepage](../project-homepage.md)  | [Real-Time Queue Tracking](real-time-queue-tracking.md)     |
+| [Authentication](authentication.md)         | [Estimated Waiting Time](estimated-waiting-time-display.md) |
+| [Priority Queues](priority-queues.md)       | [Queue Joining](queue-joining.md)                           |
+| [History Management](history-management.md) | [Queue Cancelling](queue-cancelling.md)                     |
 
 ---
+
 ## [Project Homepage](../project-homepage.md) > **Real-Time Queue Tracking**
 
 ### 🖼️ Mockup
 
 ### ⚙️ Functional Description
+
 Provides live updates to users regarding their current position in the queue and the number of people ahead of them.
 
 ### 🎬 Use Case Scenario
 
-| Step | User Action | System Response |
-| :---: | :--- | :--- |
-| **1** | ... | ... |
+| Step  | User Action                                      | System Response                                                                                |
+| :---: | :----------------------------------------------- | :--------------------------------------------------------------------------------------------- |
+| **1** | User views their active ticket status.           | System displays the user's current position in the queue and the estimated time remaining.     |
+| **2** | User receives a notification of position change. | System sends a real-time update to the user's device when their position in the queue changes. |
 
 ---
 
